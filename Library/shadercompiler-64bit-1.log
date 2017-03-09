@@ -1,0 +1,63 @@
+Base path: D:/Unity3d/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-8980
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=1903 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=1903 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=2173 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=2173 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=2691 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=2691 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=2992 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=2992 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=1895 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=1895 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=1903 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=1903 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=2173 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=2173 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=2691 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=2691 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=2992 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=2992 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+  api=1 type=0 insize=1895 outsize=0 kw= pd= ok=0
+Cmd: compileSnippet
+  error: 2 plat 1 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+  api=1 type=1 insize=1895 outsize=0 kw= pd= ok=0

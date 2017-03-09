@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Script\shootscript\playershoot.cs">
+    <Files>
+      <File FileName="Assets\_Script\shootscript\playershoot.cs" Line="33" Column="1" />
+      <File FileName="Assets\版本1\1model\script\Playcon.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\hideMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\SceneController1.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\scrollScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\swordAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\ThirdPerson2FirstPerson.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\shootscript\zidanspeed.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\NextLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\EnemyDestory.cs" Line="1" Column="1" />
+      <File FileName="Assets\AI\Actions\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\版本1\1model\script\ThirdPersonCa.cs" Line="1" Column="1" />
+      <File FileName="Assets\UI\Scripts\ApplicationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\LightUp.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

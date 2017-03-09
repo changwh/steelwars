@@ -1,0 +1,15 @@
+Base path: D:/Unity3d/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-2-12056
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 8 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Fragment program
+Platform defines: UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE
+  api=8 type=1 insize=1895 outsize=0 kw= pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=0
+Cmd: compileSnippet
+  error: 2 plat 8 at frag_ao.cginc(2): 'samples': array dimensions of function parameters must be explicit\nCompiling Vertex program
+Platform defines: UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE
+  api=8 type=0 insize=1895 outsize=0 kw= pd=UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=0
+Unhandled exception: Readfile from pipe failed. GLE=管道已结束。
+
+
+Quitting shader compiler process
